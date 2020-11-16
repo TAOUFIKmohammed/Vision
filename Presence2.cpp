@@ -1,3 +1,7 @@
+//Detection de presence de plusieurs personnes
+//Le programme est capable de detecter la presence de plusieurs personnes devant l'objectif
+
+
 #include <stdio.h>
 #include <iostream>
 #include <opencv2/opencv.hpp>

@@ -1,3 +1,8 @@
+// Capture et traitements vidéo
+
+//Nous allons écrire un programme qui permet d'ouvrir un flux vidéo en provenance de la caméra de l'odinateur, d'en transformer les images en niveaux de gris, puis de les binariser, et d'afficher les résultats de ces traitements.
+//le programme est capable aussi de mesurer et d'afficher le temps nécessaire au traitement d'une frame
+
 #include <stdio.h>
 #include <iostream>
 #include <opencv2/opencv.hpp>

@@ -1,3 +1,7 @@
+//Detection de presence 
+//Le programme est capable de detecter la presence d'une persnne devant m'objectif.
+//il est capable aussi d'incruster sur le flux video original une boite encadrant al personne detectee et les coordonnées de centre de ctte boite.
+
 #include <stdio.h>
 #include <iostream>
 #include <opencv2/opencv.hpp>
